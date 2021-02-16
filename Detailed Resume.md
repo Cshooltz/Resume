@@ -165,7 +165,7 @@ I have always had a passion for software and computer science and have dabbled i
   - Experiment with procedural generation and simulation (i.e. physics and graphics)
 
 ### Practice Database Editor Application
-For a detailed description and the source code for this project, please visit my GitHub repository: [Data-Editor-App](https://github.com/Cshooltz/Data-Editor-App)
+For a detailed description and the source code for this project, please visit my GitHub repository: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)
 
 To summarize, this is my first graphical application that I am building on my own from scratch. The purpose of this app is for me to gain practical experience building a real application and serve as a testing ground for me to learn and experiment with code. 
 
