@@ -1,8 +1,6 @@
 # Detailed Professional Experience
-## Contact
-If you would like to contact me about a job opportunity without solicitation, please message me via GitHub or Indeed. 
-
 ## Table of Contents:
+- [Contact](#contact)
 - [Professional Summary](#professional-summary)
 - [College and Training](#college-and-training)
   - [Undergraduate College (Chemical Engineering)](#undergraduate-college)
@@ -22,6 +20,9 @@ If you would like to contact me about a job opportunity without solicitation, pl
   - [Artistic 3D Modeling and Rendering](#artistic-3d-modeling-and-rendering)
   - [2D Techniques and Design](#2d-techniques-and-design)
 - [Additional Skills](#2d-techniques-and-design)
+
+## Contact
+If you would like to contact me about a job opportunity without solicitation, please message me via GitHub or Indeed. 
 
 ## Professional Summary
 I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), and over the last 6 months I have been, and continue to be, working hard to train myself in software development (in addition to my hobbyist efforts for most of my life). I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
@@ -120,7 +121,7 @@ The department was also lacking a number of standard calculations. In order to f
 #### Improved Group Project Management System
 I drove the creation and implementation of a new, comprehensive, high-level project management system for the group. The main purpose of the system was to track the progress of each engineer’s projects and help engineers provide estimates for how many working hours they will need to spend on each project. Having a structured system facilitated smarter workload balancing between engineers as well as better collaboration, allowing everybody on the team to benefit from their peers' expertise on different projects. The development and implementation of this system was the result of collaborating with my entire team.
 
-#### Group Project Management Strategies
+#### Developed Group Project Management Strategies
 As a part of the new project management system, I collaborated with my team to develop new work strategies to make project execution more efficient and robust. Some of the strategies are as follows:
   - Create a standardized list of project types. We could then group well defined projects by type so we can complete similar projects together and gain efficiency through batching similar tasks.
   - We developed a method for engineers to report progress blocking issues on their projects. This facilitated getting help from the entire team to resolve problems as fast as possible with minimal downtime.
