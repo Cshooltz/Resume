@@ -3,25 +3,25 @@
 If you would like to contact me about a job opportunity without solicitation, please message me via GitHub or Indeed. 
 
 ## Table of Contents:
-- Professional Summary
-- College and Training
-  - BS Chemical Engineering from Michigan Technological University
-  - *Our Community Listens* Communication Training
-  - Continuous Improvement Training at DTE
-- Work Experience
-  - Natural Gas Pipeline and Facilities Engineer, DTE Energy
-    - Overview
-    - Responsibilities
-    - Accomplishments
-- Software Development Experience
-  - Overview
-  - Practice Database Editor Project
-  - Complete C# Masterclass, Udemy
-- Art, 3D Modeling, and CAD experience
-  - 2D and 3D CAD
-  - Artistic 3D Modeling and Rendering
-  - 2D Techniques and Design
-- Additional Skills
+- [Professional Summary](#professional-summary)
+- [College and Training](#college-and-training)
+  - [Undergraduate College (Chemical Engineering)](#undergraduate-college)
+  - [*Our Community Listens* Communication Training](#our-community-listens-communication-training-provided-by-phillipslistens-inc-november-2016)
+  - [Continuous Improvement Training, DTE](#continuous-improvement-program-training-dte-energy-2018-2019)
+- [Work Experience](#work-experience)
+  - [Natural Gas Pipeline and Facilities Engineer, DTE Energy](#natural-gas-transmission-pipeline-and-facilities-engineer-dte-energy-detroit-mi-2017-2020)
+    - [Overview](#overview)
+    - [Responsibilities](#responsibilities)
+    - [Accomplishments](#accomplishments)
+- [Software Development Experience](#software-development-experience)
+  - [Overview](#overview-1)
+  - [Practice Database Editor Project](#practice-database-editor-application)
+  - [Complete C# Masterclass, Udemy](#complete-c-masterclass-udemy-course)
+- [Art, 3D Modeling, and CAD experience](#art-3d-modeling-and-cad-experience)
+  - [2D and 3D CAD](#2d-and-3d-cad)
+  - [Artistic 3D Modeling and Rendering](#artistic-3d-modeling-and-rendering)
+  - [2D Techniques and Design](#2d-techniques-and-design)
+- [Additional Skills](#2d-techniques-and-design)
 
 ## Professional Summary
 I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), and over the last 6 months I have been, and continue to be, working hard to train myself in software development (in addition to my hobbyist efforts for most of my life). I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
