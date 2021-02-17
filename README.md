@@ -9,4 +9,4 @@ For specific details regarding my software projects, please see my other GitHub 
 
 Thank you,
 
-- Collin Shooltz
+\- Collin Shooltz
