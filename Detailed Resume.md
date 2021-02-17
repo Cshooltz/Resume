@@ -1,4 +1,4 @@
-## DETAILED PROFESSIONAL EXPERIENCE
+# DETAILED PROFESSIONAL EXPERIENCE
 ### TABLE OF CONTENTS
 - [Personal Info](#personal-info)
 - [Summary](#summary)
@@ -41,7 +41,7 @@ Please continue reading for an overview of my experience and skills. Also keep i
 I would like to be up front and specific about working hours: I do not want to work more than 40 hours a week and will try to keep to a tight schedule. I have responsibilities outside of work that demand my time and attention, so I cannot commit to 50+ hours of work in a week. I can facilitate travel for work as long as I am given opportunity to plan around it. If the position you are looking to fill requires periodic compensated overtime, I am open to discuss it.
 
 ----------------------------------------------------------------
-### EDUCATION AND TRAINING
+## EDUCATION AND TRAINING
 #### Undergraduate College
 Michigan Technological University, Houghton, MI  
 BS Chemical Engineering, 3.62 GPA (Cum Laude), April 2016  
@@ -57,7 +57,7 @@ This training was one of the most eye opening experiences of my life. It built o
 #### Continuous Improvement Program Training, DTE Energy, 2018-2019
 DTE has implemented an internal Continuous Improvement (CI) program and standardized it enterprise-wide. Most of my work processes at DTE were derived from CI activities and efforts to improve the efficiency and reliability of the organization. DTE also provided in-class training courses on CI concepts and methodology, which I took. CI as it is implemented by DTE is similar to Six Sigma and similar programs, but is a unique program tailored to the specific needs of DTE.
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 ### Natural Gas Transmission Pipeline and Facilities Engineer, DTE Energy, Detroit, MI 2017-2020
 ### Overview
 My primary function within this position was to own, manage, and execute capital projects to install and modify natural gas transmission systems. The position covered a very broad array of auxiliary responsibilities, including support of other departments, records auditing, and coordinating with outside companies who are performing construction in the vicinity of DTE Gas facilities (facility requests). I also had many opportunities to contribute to my department's work processes and improve the overall function of the team.
@@ -143,7 +143,7 @@ During my entire time at DTE, I was able to successfully complete my capital pro
 **Improvement of Inter-department Relationships**  
 My success and the success of the company depended heavily on teamwork and collaboration between departments. I spent a lot of effort building up the relationships between my department and the co-dependent departments we worked with. I succeeded through proactive collaboration and open, regular, discussion. The result was better communications between groups, reduced work errors, and faster turn around times on requests, among a variety of other small improvements that increased overall efficiency and ease of work.
 
-### SOFTWARE DEVELOPMENT EXPERIENCE
+## SOFTWARE DEVELOPMENT EXPERIENCE
 
 ### Overview
 I have always had a passion for software and computer science and have dabbled in programming on and off most of my life. It wasn’t until I left my last job, however, that I realized software development is more interesting to me now than traditional engineering. So, over the last year I have been working hard at filling in my experience gaps for software development.
@@ -202,7 +202,7 @@ The following is a brief list of topics covered in this course:
 - Nullables, events, and delegates
 - GUI programming using the Windows Presentation Foundation
 
-### ART, 3D MODELING, AND CAD EXPERIENCE
+## ART, 3D MODELING, AND CAD EXPERIENCE
 #### 2D and 3D CAD
 In college, I was trained in blueprint reading, use of AutoCAD for producing 2D drawings/prints, and use of Solidworks for producing 3D models, 2D prints, and 3D printed prototypes. I actually developed a little action figure for my final project that I 3D printed and assembled. My joint designs needed work, but it otherwise turned out great!
 
@@ -214,7 +214,7 @@ I've always loved 3D graphics and animation, so throughout a lot of my life I da
 #### 2D Techniques and Design
 This last year I have taken a break from focusing on 3D in my spare time and have decided to focus on digital drawing and painting skills. While I would still consider myself a hobbyist and a novice in this space, I do have significant training in art theory and am competent enough to be able to sit and make a drawing of whatever I want (i.e. diagrams, perspective drawings, figure drawings, etc), even if it is low quality compared to what a professional can turn out. My experience here gives me additional tools to use for communication and problem visualization and solving.
 
-### ADDITIONAL SKILLS
+## ADDITIONAL SKILLS
 - Proven communication, diplomacy, and teamwork skills
 - Excels at process engineering and process design
 - Very high competence using computers and software
