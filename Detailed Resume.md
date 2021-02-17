@@ -1,3 +1,7 @@
+<style type = text/css>
+  h1 { color: blue;}
+</style>
+
 # DETAILED PROFESSIONAL EXPERIENCE
 ### TABLE OF CONTENTS
 - [Personal Info](#personal-info)
