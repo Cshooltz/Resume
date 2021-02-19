@@ -1,5 +1,5 @@
 # Resume
-Welcome! This repository acts as my public profile for details on my work experience and skills. I am currently looking for employment as a software developer/engineer. I previously worked at a natural gas pipeline engineer, but since then I have decided to pursue a career in software development instead. If you would like to contact me, please do so through GitHub or Indeed.
+Welcome! This repository acts as my public profile for details on my work experience and skills. I am currently looking for employment as a software developer/engineer. I previously worked as a natural gas pipeline engineer, but since then I have decided to pursue a career in software development instead. If you would like to contact me, please do so through GitHub or Indeed.
 
 For a brief summary of my skills and experience, please visit [Brief Resume.md](Brief%20Resume.md).
 
