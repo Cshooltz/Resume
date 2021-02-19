@@ -30,23 +30,26 @@ Passed FE Exam, April 2016
 
 ### WORK EXPERIENCE
 ### Natural Gas Transmission Pipeline and Facilities Engineer, DTE Energy, Detroit, MI 2017-2020
-#### Responsibilities
-- Primary responsibility was the end-to-end management and execution of capital projects (completed 10's of projects per annual cycle)
-- Performed conceptual through detailed design for each project. Started with conceptual sketches and equipment sizing, ended with signed construction drawings and procurement of materials and services for project
-- Performed detailed financial analysis for each project. Included detailed cost estimates, spending forecasts, and reporting of actual spends versus forecast spends
+#### Job Responsibilities
+- Primary responsibility: end-to-end ownership, management, and execution of capital projects to install and modify natural gas transmission systems (completed 10's of projects per annual cycle)
+- Performed conceptual through detailed engineering and design for each project. Started with conceptual sketches and equipment sizing, ended with signed construction drawings and procurement of materials and services for project
+- Performed detailed financial analysis for each project, including cost estimates, spending forecasts, and reporting actual vs. forecasted spends
+- Coordinated involvement and collaboration of all necessary internal and external groups required for each project (normally 5-10 internal departments) and coordinated construction teams to perform project construction
+- Procured materials and contractor services required for assigned projects. Included writing specifications for materials and services, requesting quotes, performing bid analysis, selecting bids, and coordinating delivery/schedule
 - Ensured federally and internally required project documentation was assembled and archived at the end of each project. Also co-led response to state audit of construction records for projects completed within the last 40 years
-- Coordinated the involvement and collaboration of all necessary internal departments and external organizations required for each project (normally 5-10 internal departments). Also coordinated construction teams to perform the actual construction for each project
-- Worked with Procurement department and outside vendors to procure materials and services required for each project. Included specifying materials and services, requesting quotes, performing bid analysis, selecting bids, and coordinating delivery/schedule
 - Facility Requests: worked with external organizations who had construction projects in the vicinity of, or that crossed, DTE pipelines. Developed custom solutions for each client's case through collaboration between myself, the client, and my team
-- Contributed and drove continuous improvement initiatives within my department
-- Ensured safety in all aspects of my work. One of my most important functions was to develop pressure control procedures, which were required for any non-standard modifications to the operation of any gas facilities (i.e. taking a pipeline offline for construction and bringing it up again after)
+- Contributed to and drove continuous improvement initiatives within my department
+- Ensured safety in all aspects of my work. One of my most critical functions was to develop and oversee pressure control procedures, which were required for any non-standard modifications to the operation of any gas facilities (i.e. taking a pipeline offline for construction and bringing it up again after)
 #### Accomplishments
 - Created central documentation website for department using Sharepoint. Used a wiki-style format so the entire team could contribute to and review online documentation. The site also housed standard documents used by all members of the team
-- Developed standardized calculation spreadsheets for common calculations that had no documentation within my team. My most notable calculation sheets are: Gas pressure regulator sizing and set point calculator, gas velocity and volumetric flow calculator, time estimate calculator for the duration of venting a pipeline to atmosphere or calculate lost gas volume through a leak
-- Created improved group project management system that tracked the progress of all projects and allowed for the estimation of how many engineering hours were required per project. We used this information to better plan and balance workload amongst the available engineers
+- Developed standardized calculation spreadsheets for use within my department, including but not limited to: 
+  - Gas pressure regulator sizing and set point calculator 
+  - gas velocity and volumetric flow calculator
+  - time estimate calculator for the duration of venting a pipeline to atmosphere or calculate lost gas volume through a leak
+- Created high-level project management system to track progress and time estimates for project assignments in order to better plan and balance workload among the available engineers
 - Implemented new project management strategies to improve project execution efficiency and robustness. Included process standardization, improved communication methods, and modifications to the existing project execution process
-- Resolved conflicts between myself and both internal and external groups/individuals whom I worked with on a regular basis. Worked with clients on facility requests to resolve conflicts between DTE's needs and the client's needs
-- Balanced work tasks with continuous improvement activities and managed to complete my primary job responsibilities as well as improve my work process concurrently
+- Resolved conflicts between myself and internal and external groups/individuals in order to produce mutually beneficial solutions. This was especially important for facility requests, where the needs of the client and DTE could differ significantly
+- Balanced work tasks with continuous improvement activities in order to complete my primary job responsibilities and improve my work processes concurrently
 - Improved the relationships between my department and inter-dependent departments through open, regular, discussion and collaboration. Improved efficiency of inter-departmental tasks as a result
 ### SOFTWARE DEVELOPMENT EXPERIENCE
 ### Overview
@@ -79,7 +82,7 @@ Completed as part of the C# Masterclass, I designed a two player game of Tic-Tac
 Completed as part of the C# Masterclass, this simple program allows the user to edit database entries for zoos and animals and builds a relational table to keep track of what animals each zoo has. Data is stored in a local Microsoft SQL database. The GUI was built using WPF on .Net Framework 4.
 
 #### Complete C# Masterclass
-I chose to take this course because it is a very comprehensive introduction to programming in C#. It covered all of the basic programming principles and went all the way to advanced topics, such as multithreaded programming, GUI programming, LINQ and using databases, and events. For the details of what I learned from this course, please see my [detailed resume](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Resume.md) and/or my [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass) repository.
+I chose to take this course because it is a very comprehensive introduction to programming in C#. It covered all of the basic programming principles and went all the way to advanced topics, such as multithreaded programming, GUI programming, LINQ and using databases, and events. For the details of what I learned from this course, please see my [detailed resume](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Resume.md) and my [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass) repository.
 
 ### ADDITIONAL SKILLS
 - Proven communication, diplomacy, and teamwork skills
