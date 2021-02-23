@@ -47,6 +47,65 @@ Passed FE Exam, April 2016
 - Our Community Listens communication training, provided by PhillipsLISTENS, INC, November 2016
 - Continuous Improvement Program Training, DTE Energy, 2018-2019
 
+## SOFTWARE DEVELOPMENT EXPERIENCE
+
+### Overview
+I have always had a passion for software and computer science and have dabbled in programming on and off most of my life. It wasn’t until I left my last job, however, that I realized software development is more interesting to me now than traditional engineering. So, over the last year I have been working hard at filling in my experience gaps for software development.
+
+**General Skills and Capabilities:**  
+  - Generally competent with programming environments and comfortable using most languages
+  - Comfortable using/making Linux shell scripts and Powershell scripts
+  - Comfortable on any operating system (most experienced with Linux and Windows)
+  - High level understanding of the underlying operations and architectures of computers, and comfortable going as low level as programming in assembly language
+  - Currently specialized in C# programming for cross platform .Net applications
+  - Functional with multi-threaded programming. Comfortable using Tasks, ThreadPool threads, and manual Threads in C#. Comfortable using multi-threaded control structures and data structures, such as locks, mutexes, and event handles. I implemented 3 basic threading strategies in my own application over 3 days at the end of January.
+  - Comfortable with UI programming. I know the basics of WPF and HTML/CSS/JS. My preference for developing personal applications is to use a game engine like Godot or Unity
+  - Comfortable using game engines. Most experienced with Godot, but comfortable with Unity and Unreal Engine 4 
+  - Comfortable working with digital assets, i.e. images, SVG, audio, 3D data, etc. I am not yet very experienced working with these data formats from the code side of things, but I am learning more every day
+
+**Todo Learning and Projects:**  
+  - Complete my database editor I am making in Godot.
+  - Make a similar practice project in Unity to compare their workflows and architecture.
+  - Port one or more of my practice projects to mobile
+  - Learn ASP.Net Core for building web apps and services
+  - Learn and use advanced data modeling, processing, and storage
+  - Learn how to implement real-time network communications, i.e. multiple users editing the same document in real-time over the internet
+  - Experiment with procedural generation and simulation (i.e. physics and graphics)
+
+### Practice Database Editor Application
+For a detailed description and the source code for this project, please visit my GitHub repository: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)
+
+To summarize, this is my first graphical application that I am building on my own from scratch. The purpose of this app is for me to gain practical experience building a real application and serve as a testing ground for me to learn and experiment with code. 
+
+The goal is to have a generalized, but simple, database editor that can work with data stored in multiple ways: in text files, in a local embedded database (i.e. SQLite), and in a database server such as MySQL. The project is still fairly early on, and at this time you can use the app to write a static test data set to a JSON file, load test data into the table UI element, and browse the local filesystem in the embedded file browser I made. 
+
+the following is a brief list of my accomplishments so far in this project:
+- Built basic UI structure for user interaction with the program
+- Created a custom table UI element for viewing and editing data
+- Created a custom embedded file browser (working towards making it a full file manager) complete with delegation of blocking code to worker threads
+- Implemented 3 reusable threading strategies over 3 days (dedicated worker thread that is fed a queue of functions, a work queue structure using Tasks and ContinueWith, and simple Tasks with mutexes protecting mutually exclusive code)
+- Integrated the Newtonsoft Json.Net library for serialization of data structures to/from JSON
+- Implemented saving of data structures to JSON text files
+
+### Complete C# Masterclass, Udemy Course
+For a detailed description and the source code I wrote following this course, please visit my GitHub repository: [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass)
+
+To jumpstart my career change into software development, I decided to look for an extensive course on C#. I chose the Complete C# Masterclass course because the curriculum is one of the most diverse and complete I have seen. Starting from the most basic concepts, the course moved on to broach advanced topics like multithreaded programming, LINQ, utilizing a SQL database in a project, and building GUI apps using Windows Presentation Foundation. I completed almost the entirety of the course within one month's time.
+
+My favorite parts of this course were the small projects that resulted in more or less complete small applications. The first one was a console based tic-tac-toe game, which I designed from scratch before watching the instructor's solution. The second was a complete WPF app that allowed the user to view and edit data stored in a local Microsoft SQL server (the Zoo Manager app).
+
+The following is a brief list of topics covered in this course:
+- Detailed usage of Visual Studio Community IDE
+- Basic programming concepts (i.e. functions, data types, loops, etc, etc)
+- Somewhat advanced use of the command line environment
+- Advanced object oriented programming
+- Debugging
+- Intro to .Net APIs
+- Multithreaded programming with Threads, ThreadPool, Tasks, and async/await
+- Use of LINQ and SQL databases
+- Nullables, events, and delegates
+- GUI programming using the Windows Presentation Foundation
+
 ## WORK EXPERIENCE
 ### Natural Gas Transmission Pipeline and Facilities Engineer, DTE Energy, Detroit, MI 2017-2020
 ### Overview
@@ -132,65 +191,6 @@ During my entire time at DTE, I was able to successfully complete my capital pro
 
 **Improvement of Inter-department Relationships**  
 My success and the success of the company depended heavily on teamwork and collaboration between departments. I spent a lot of effort building up the relationships between my department and the co-dependent departments we worked with. I succeeded through proactive collaboration and open, regular, discussion. The result was better communications between groups, reduced work errors, and faster turn around times on requests, among a variety of other small improvements that increased overall efficiency and ease of work.
-
-## SOFTWARE DEVELOPMENT EXPERIENCE
-
-### Overview
-I have always had a passion for software and computer science and have dabbled in programming on and off most of my life. It wasn’t until I left my last job, however, that I realized software development is more interesting to me now than traditional engineering. So, over the last year I have been working hard at filling in my experience gaps for software development.
-
-**General Skills and Capabilities:**  
-  - Generally competent with programming environments and comfortable using most languages
-  - Comfortable using/making Linux shell scripts and Powershell scripts
-  - Comfortable on any operating system (most experienced with Linux and Windows)
-  - High level understanding of the underlying operations and architectures of computers, and comfortable going as low level as programming in assembly language
-  - Currently specialized in C# programming for cross platform .Net applications
-  - Functional with multi-threaded programming. Comfortable using Tasks, ThreadPool threads, and manual Threads in C#. Comfortable using multi-threaded control structures and data structures, such as locks, mutexes, and event handles. I implemented 3 basic threading strategies in my own application over 3 days at the end of January.
-  - Comfortable with UI programming. I know the basics of WPF and HTML/CSS/JS. My preference for developing personal applications is to use a game engine like Godot or Unity
-  - Comfortable using game engines. Most experienced with Godot, but comfortable with Unity and Unreal Engine 4 
-  - Comfortable working with digital assets, i.e. images, SVG, audio, 3D data, etc. I am not yet very experienced working with these data formats from the code side of things, but I am learning more every day
-
-**Todo Learning and Projects:**  
-  - Complete my database editor I am making in Godot.
-  - Make a similar practice project in Unity to compare their workflows and architecture.
-  - Port one or more of my practice projects to mobile
-  - Learn ASP.Net Core for building web apps and services
-  - Learn and use advanced data modeling, processing, and storage
-  - Learn how to implement real-time network communications, i.e. multiple users editing the same document in real-time over the internet
-  - Experiment with procedural generation and simulation (i.e. physics and graphics)
-
-### Practice Database Editor Application
-For a detailed description and the source code for this project, please visit my GitHub repository: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)
-
-To summarize, this is my first graphical application that I am building on my own from scratch. The purpose of this app is for me to gain practical experience building a real application and serve as a testing ground for me to learn and experiment with code. 
-
-The goal is to have a generalized, but simple, database editor that can work with data stored in multiple ways: in text files, in a local embedded database (i.e. SQLite), and in a database server such as MySQL. The project is still fairly early on, and at this time you can use the app to write a static test data set to a JSON file, load test data into the table UI element, and browse the local filesystem in the embedded file browser I made. 
-
-the following is a brief list of my accomplishments so far in this project:
-- Built basic UI structure for user interaction with the program
-- Created a custom table UI element for viewing and editing data
-- Created a custom embedded file browser (working towards making it a full file manager) complete with delegation of blocking code to worker threads
-- Implemented 3 reusable threading strategies over 3 days (dedicated worker thread that is fed a queue of functions, a work queue structure using Tasks and ContinueWith, and simple Tasks with mutexes protecting mutually exclusive code)
-- Integrated the Newtonsoft Json.Net library for serialization of data structures to/from JSON
-- Implemented saving of data structures to JSON text files
-
-### Complete C# Masterclass, Udemy Course
-For a detailed description and the source code I wrote following this course, please visit my GitHub repository: [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass)
-
-To jumpstart my career change into software development, I decided to look for an extensive course on C#. I chose the Complete C# Masterclass course because the curriculum is one of the most diverse and complete I have seen. Starting from the most basic concepts, the course moved on to broach advanced topics like multithreaded programming, LINQ, utilizing a SQL database in a project, and building GUI apps using Windows Presentation Foundation. I completed almost the entirety of the course within one month's time.
-
-My favorite parts of this course were the small projects that resulted in more or less complete small applications. The first one was a console based tic-tac-toe game, which I designed from scratch before watching the instructor's solution. The second was a complete WPF app that allowed the user to view and edit data stored in a local Microsoft SQL server (the Zoo Manager app).
-
-The following is a brief list of topics covered in this course:
-- Detailed usage of Visual Studio Community IDE
-- Basic programming concepts (i.e. functions, data types, loops, etc, etc)
-- Somewhat advanced use of the command line environment
-- Advanced object oriented programming
-- Debugging
-- Intro to .Net APIs
-- Multithreaded programming with Threads, ThreadPool, Tasks, and async/await
-- Use of LINQ and SQL databases
-- Nullables, events, and delegates
-- GUI programming using the Windows Presentation Foundation
 
 ## ART, 3D MODELING, AND CAD EXPERIENCE
 #### 2D and 3D CAD
