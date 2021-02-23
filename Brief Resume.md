@@ -14,9 +14,6 @@ I am predominately looking for work in Ohio, the closer to Cleveland the better,
 
 Please continue reading for an overview of my experience and skills. Also keep in mind that I continue to work at improving my skills in software development weekly and I intend to update my resume regularly to reflect my progress.
 
-#### A Note about Working Hours:
-I would like to be up front and specific about working hours: I do not want to work more than 40 hours a week and will try to keep to a tight schedule. I have responsibilities outside of work that demand my time and attention, so I cannot commit to 50+ hours of work in a week. I can facilitate travel for work as long as I am given opportunity to plan around it. If the position you are looking to fill requires periodic compensated overtime, I am open to discuss it.
-
 ----------------------------------------------------------------
 ### EDUCATION AND TRAINING
 #### Undergraduate College
@@ -53,18 +50,19 @@ Passed FE Exam, April 2016
 - Improved the relationships between my department and inter-dependent departments through open, regular, discussion and collaboration. Improved efficiency of inter-departmental tasks as a result
 ### SOFTWARE DEVELOPMENT EXPERIENCE
 ### Overview
-As software development is the field I want to break into, this last year I have put considerable effort into building up my experience for it. I started with a comprehensive course in C# on Udemy, the *Complete C# Masterclass*. Since then I have been working on my own practice project, a simple database editor, to gain practical experience and experiment with different ideas.
+As software development is the field I want to break into, this last year I have put considerable effort into building up my skills for it. I started with a comprehensive course in C# on Udemy, the *Complete C# Masterclass*. Since then I have been working on my own practice project, a simple database editor, to gain practical experience and experiment with different ideas.
 
-For complete details on my projects, please see my [detailed resume](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Resume.md) and individual GitHub repositories.
-Database Editor Source: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)
+For complete details on my projects, please see my [detailed resume](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Resume.md) and individual GitHub repositories.  
+Database Editor Source: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)  
 C# Masterclass Source: [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass)
 
 **General Skills and Capabilities**  
 - Generally competent with any programming environment and language
-- Currently specialized in C# and .Net programming for cross platform applications
-- Recently dove into multithreaded programming and am now comfortable with multithreaded programming in C#
+- Specialized in C# and .Net programming for cross platform applications
+- Competent using multithreaded programming in C# with Threads and Tasks
 - Comfortable performing GUI programming. Most familiar using game engines like Godot and Unity, but also comfortable working with other frameworks like WPF and HTML
-- High level understanding of computer hardware and architecture. Comfortable working as low level as assembly language
+- High level understanding of computer hardware and architecture
+- Comfortable working as low level as assembly language
 ### Projects
 #### Database Editor
 This project is my first practical foray into creating my own GUI application, and is my current active project. My goal is to make a simple cross platform database editor that can work with either an embedded database, a database server, or plain text in files. The following are highlights of my current progress:

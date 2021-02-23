@@ -34,11 +34,7 @@ I've decided to make the change to software development as a personal choice thi
 
 I am predominately looking for work in Ohio, the closer to Cleveland the better, since I have family in the Cleveland area and simply like the area too. However, I am open to discussing relocation to other places for work instead if the opportunity is a good fit for me. I am also open to remote positions and can facilitate periodic travel (i.e. by flight or road trip) to meet in person.
 
-Please continue reading for an overview of my experience and skills. Also keep in mind that I continue to work at improving my skills in software development weekly and I intend to update my resume regularly to reflect my progress.
-
-**A Note about Working Hours:**
-
-I would like to be up front and specific about working hours: I do not want to work more than 40 hours a week and will try to keep to a tight schedule. I have responsibilities outside of work that demand my time and attention, so I cannot commit to 50+ hours of work in a week. I can facilitate travel for work as long as I am given opportunity to plan around it. If the position you are looking to fill requires periodic compensated overtime, I am open to discuss it.
+Please continue reading for an overview of my experience and skills. Also keep in mind that I continue to work at improving my skills in software development weekly and I intend to update my online resume regularly to reflect my progress.
 
 ----------------------------------------------------------------
 ## EDUCATION AND TRAINING
@@ -47,15 +43,9 @@ Michigan Technological University, Houghton, MI
 BS Chemical Engineering, 3.62 GPA (Cum Laude), April 2016  
 Passed FE Exam, April 2016
 
-**Comments:**  
-Curriculum focused on a wide array of technical subjects including topics of physics, thermodynamics, chemistry, heat and mass transfer modeling, process modeling, and a variety of practical labs. 
-Also included introductory classes for programming (C++) and electrical circuit design.
-
-#### Our Community Listens communication training, provided by PhillipsLISTENS, INC, November 2016
-This training was one of the most eye opening experiences of my life. It built on top of all of the communications courses I took in college and taught me very powerful ways to communicate and cooperate with others. This course forms the foundation of how I communicate with others now, and has proven very effective, especially in my time at DTE. 
-
-#### Continuous Improvement Program Training, DTE Energy, 2018-2019
-DTE has implemented an internal Continuous Improvement (CI) program and standardized it enterprise-wide. Most of my work processes at DTE were derived from CI activities and efforts to improve the efficiency and reliability of the organization. DTE also provided in-class training courses on CI concepts and methodology, which I took. CI as it is implemented by DTE is similar to Six Sigma and similar programs, but is a unique program tailored to the specific needs of DTE.
+#### Misc
+- Our Community Listens communication training, provided by PhillipsLISTENS, INC, November 2016
+- Continuous Improvement Program Training, DTE Energy, 2018-2019
 
 ## WORK EXPERIENCE
 ### Natural Gas Transmission Pipeline and Facilities Engineer, DTE Energy, Detroit, MI 2017-2020
@@ -85,7 +75,7 @@ The execution of every project required collaboration between 5-10 internal depa
 - **Procurement of Materials and services:**
 As the project engineer, I was responsible for developing material specifications and service scope of work documents, and reaching out to vendors and contractors (either directly or through Procurement) to request quotes and bids. Also performed bid analysis and selection on received bids. 
 
-I developed and maintained business relationships between myself and vendors/contractors, and worked closely with many throughout my time at DTE. I and my team also received a variety of training on specialized topics from our vendors and contractors.
+  I developed and maintained business relationships between myself and vendors/contractors, and worked closely with many throughout my time at DTE. I and my team also received a variety of training on specialized topics from our vendors and contractors.
 
 **Facility Requests**  
 One of the important auxiliary functions of the engineers at DTE was to respond to facility requests. A facility request is when an outside organization is planning to build over or around a DTE gas line and notifies DTE (normally) through the MISS DIG system. This triggers a process where DTE must review the client's construction plans and provide guidance to the client regarding how to safely build around the pipeline. During the review process, the engineer becomes the primary point of contact for the engineer, and it is the engineer's responsibility to reach out to them and collect all the necessary information on the project.
@@ -209,7 +199,7 @@ In college, I was trained in blueprint reading, use of AutoCAD for producing 2D 
 Beyond that, I had a lot of exposure to 2D CAD at DTE. While I didn't construct the drawings myself, I became intimately familiar with the drafting standards and process. I also produced detailed hand sketches of designs to provide to the drafting department.
 
 #### Artistic 3D Modeling and Rendering
-I've always loved 3D graphics and animation, so throughout a lot of my life I dabbled in 3D modeling and rendering as a hobby. My tool of choice is the open source software, Blender. While I am not terribly skilled at 3D modeling, I am familiar with most production steps and can create textured 3D objects and scenes complete and ready for simulation and/or animation.
+As a hobby for most of my life I've practiced 3D modeling and rendering. My tool of choice is the open source software, Blender. I am familiar with most production steps and can create textured 3D objects and scenes complete and ready for animation and rendering.
 
 #### 2D Techniques and Design
 This last year I have taken a break from focusing on 3D in my spare time and have decided to focus on digital drawing and painting skills. While I would still consider myself a hobbyist and a novice in this space, I do have significant training in art theory and am competent enough to be able to sit and make a drawing of whatever I want (i.e. diagrams, perspective drawings, figure drawings, etc), even if it is low quality compared to what a professional can turn out. My experience here gives me additional tools to use for communication and problem visualization and solving.
