@@ -4,7 +4,7 @@
 **Search Criteria:** Looking for software development/engineering position, preferably in the vicinity of Cleveland, Ohio. Open to discussion regarding other potential locations.
 
 ### SUMMARY
-This document is a brief summary of my professional experience. If you would like additional details on any of the topics contained within this document, please see my detailed resume hosted on GitHub: [https://github.com/Cshooltz/Resume](https://github.com/Cshooltz/Resume)
+This document is a brief summary of my professional experience. If you would like additional details on any of the topics contained within this document, please see my detailed experience hosted on GitHub: [https://github.com/Cshooltz/Resume](https://github.com/Cshooltz/Resume)
 
 I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), and over the last 6 months I have been, and continue to be, working hard to train myself in software development (in addition to my hobbyist efforts for most of my life). I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
 
@@ -52,7 +52,7 @@ Passed FE Exam, April 2016
 ### Overview
 As software development is the field I want to break into, this last year I have put considerable effort into building up my skills for it. I started with a comprehensive course in C# on Udemy, the *Complete C# Masterclass*. Since then I have been working on my own practice project, a simple database editor, to gain practical experience and experiment with different ideas.
 
-For complete details on my projects, please see my [detailed resume](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Resume.md) and individual GitHub repositories.  
+For complete details on my projects, please see my [detailed experience](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Experience.md) and individual GitHub repositories.  
 Database Editor Source: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)  
 C# Masterclass Source: [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass)
 
@@ -80,7 +80,7 @@ Completed as part of the C# Masterclass, I designed a two player game of Tic-Tac
 Completed as part of the C# Masterclass, this simple program allows the user to edit database entries for zoos and animals and builds a relational table to keep track of what animals each zoo has. Data is stored in a local Microsoft SQL database. The GUI was built using WPF on .Net Framework 4.
 
 #### Complete C# Masterclass
-I chose to take this course because it is a very comprehensive introduction to programming in C#. It covered all of the basic programming principles and went all the way to advanced topics, such as multithreaded programming, GUI programming, LINQ and using databases, and events. For the details of what I learned from this course, please see my [detailed resume](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Resume.md) and my [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass) repository.
+I chose to take this course because it is a very comprehensive introduction to programming in C#. It covered all of the basic programming principles and went all the way to advanced topics, such as multithreaded programming, GUI programming, LINQ and using databases, and events. For the details of what I learned from this course, please see my [detailed experience](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Experience.md) and my [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass) repository.
 
 ### ADDITIONAL SKILLS
 - Proven communication, diplomacy, and teamwork skills
