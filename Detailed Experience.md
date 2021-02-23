@@ -185,13 +185,11 @@ Externally, I had the opportunity to resolve several conflicts between DTE and o
 
 Internally, navigating competing interests between departments and business units within DTE was a regular occurrence. I was able to regularly resolve these conflicts with open discussion and careful negotiation to ensure everybody's needs were met prior to continuing any project. 
 
-**Balancing Work Tasks**  
-During my entire time at DTE, I was able to successfully complete my capital projects and assignments alongside continuous improvement activities. I got my work done, and then figured out how to get my work done better for myself and my department concurrently.
-
 **Improvement of Inter-department Relationships**  
 My success and the success of the company depended heavily on teamwork and collaboration between departments. I spent a lot of effort building up the relationships between my department and the co-dependent departments we worked with. I succeeded through proactive collaboration and open, regular, discussion. The result was better communications between groups, reduced work errors, and faster turn around times on requests, among a variety of other small improvements that increased overall efficiency and ease of work.
 
 ## ART, 3D MODELING, AND CAD EXPERIENCE
+
 #### 2D and 3D CAD
 In college, I was trained in blueprint reading, use of AutoCAD for producing 2D drawings/prints, and use of Solidworks for producing 3D models, 2D prints, and 3D printed prototypes. I actually developed a little action figure for my final project that I 3D printed and assembled. My joint designs needed work, but it otherwise turned out great!
 
