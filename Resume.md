@@ -1,18 +1,17 @@
 ## Collin Shooltz
 **Location:** Michigan  
 **Contact:** For unsolicited contact, please message me through GitHub or Indeed  
-**Search Criteria:** Looking for software development/engineering position, preferably in the vicinity of Cleveland, Ohio. Open to discussion regarding other potential locations.
 
 ### SUMMARY
 This document is a brief summary of my professional experience. If you would like additional details on any of the topics contained within this document, please see my detailed experience hosted on GitHub: [https://github.com/Cshooltz/Resume](https://github.com/Cshooltz/Resume)
 
-I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), and over the last 6 months I have been, and continue to be, working hard to train myself in software development (in addition to my hobbyist efforts for most of my life). I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
+I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), and over the last 6 months I have been, and continue to be, working hard to train myself in software development. I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
 
 I've decided to make the change to software development as a personal choice this last year. I have always had a passion for software and computer technology and recently realized that it is more appealing to me now than traditional engineering ever was. In a nutshell, I am making the change because I love making software!
 
 I am predominately looking for work in Ohio, the closer to Cleveland the better, since I have family in the Cleveland area and simply like the area too. However, I am open to discussing relocation to other places for work instead if the opportunity is a good fit for me. I am also open to remote positions and can facilitate periodic travel (i.e. by flight or road trip) to meet in person.
 
-Please continue reading for an overview of my experience and skills. Also keep in mind that I continue to work at improving my skills in software development weekly and I intend to update my resume regularly to reflect my progress.
+Please continue reading for an overview of my experience and skills. Also keep in mind that I continue to work at improving my skills in software development weekly and I intend to update my online resume regularly to reflect my progress.
 
 ----------------------------------------------------------------
 
@@ -26,33 +25,6 @@ Passed FE Exam, April 2016
 #### Misc
 - Our Community Listens communication training, provided by PhillipsLISTENS, INC, November 2016
 - Continuous Improvement Program Training, DTE Energy, 2018-2019
-
-### WORK EXPERIENCE
-
-### Natural Gas Transmission Pipeline and Facilities Engineer, DTE Energy, Detroit, MI 2017-2020
-
-#### Job Responsibilities
-- Primary responsibility: end-to-end ownership, management, and execution of capital projects to install and modify natural gas transmission systems (completed 10's of projects per annual cycle)
-- Performed conceptual through detailed engineering and design for each project. Started with conceptual sketches and equipment sizing, ended with signed construction drawings and procurement of materials and services for project
-- Performed detailed financial analysis for each project, including cost estimates, spending forecasts, and reporting actual vs. forecasted spends
-- Coordinated involvement and collaboration of all necessary internal and external groups required for each project (normally 5-10 internal departments) and coordinated construction teams to perform project construction
-- Procured materials and contractor services required for assigned projects. Included writing specifications for materials and services, requesting quotes, performing bid analysis, selecting bids, and coordinating delivery/schedule
-- Ensured federally and internally required project documentation was assembled and archived at the end of each project. Also co-led response to state audit of construction records for projects completed within the last 40 years
-- Facility Requests: worked with external organizations who had construction projects in the vicinity of, or that crossed, DTE pipelines. Developed custom solutions for each client's case through collaboration between myself, the client, and my team
-- Contributed to and drove continuous improvement initiatives within my department
-- Ensured safety in all aspects of my work. One of my most critical functions was to develop and oversee pressure control procedures, which were required for any non-standard modifications to the operation of any gas facilities (i.e. taking a pipeline offline for construction and bringing it up again after)
-
-#### Accomplishments
-- Created central documentation website for department using Sharepoint. Used a wiki-style format so the entire team could contribute to and review online documentation. The site also housed standard documents used by all members of the team
-- Developed standardized calculation spreadsheets for use within my department, including but not limited to: 
-  - Gas pressure regulator sizing and set point calculator 
-  - gas velocity and volumetric flow calculator
-  - time estimate calculator for the duration of venting a pipeline to atmosphere or calculate lost gas volume through a leak
-- Created high-level project management system to track progress and time estimates for project assignments in order to better plan and balance workload among the available engineers
-- Implemented new project management strategies to improve project execution efficiency and robustness. Included process standardization, improved communication methods, and modifications to the existing project execution process
-- Resolved conflicts between myself and internal and external groups/individuals in order to produce mutually beneficial solutions. This was especially important for facility requests, where the needs of the client and DTE could differ significantly
-- Balanced work tasks with continuous improvement activities in order to complete my primary job responsibilities and improve my work processes concurrently
-- Improved the relationships between my department and inter-dependent departments through open, regular, discussion and collaboration. Improved efficiency of inter-departmental tasks as a result
 
 ### SOFTWARE DEVELOPMENT EXPERIENCE
 
@@ -90,6 +62,32 @@ Completed as part of the C# Masterclass, this simple program allows the user to 
 
 #### Complete C# Masterclass
 I chose to take this course because it is a very comprehensive introduction to programming in C#. It covered all of the basic programming principles and went all the way to advanced topics, such as multithreaded programming, GUI programming, LINQ and using databases, and events. For the details of what I learned from this course, please see my [detailed experience](https://github.com/Cshooltz/Resume/blob/main/Detailed%20Experience.md) and my [C# Masterclass](https://github.com/Cshooltz/CSharp-Masterclass) repository.
+
+### WORK EXPERIENCE
+
+### Natural Gas Transmission Pipeline and Facilities Engineer, DTE Energy, Detroit, MI 2017-2020
+
+#### Job Responsibilities
+- Primary responsibility: end-to-end ownership, management, and execution of capital projects to install and modify natural gas transmission systems (completed 10's of projects per annual cycle)
+- Performed conceptual through detailed engineering and design for each project. Started with conceptual sketches and equipment sizing, ended with signed construction drawings and procurement of materials and services for project
+- Performed detailed financial analysis for each project, including cost estimates, spending forecasts, and reporting actual vs. forecasted spends
+- Coordinated involvement and collaboration of all necessary internal and external groups required for each project (normally 5-10 internal departments) and coordinated construction teams to perform project construction
+- Procured materials and contractor services required for assigned projects. Included writing specifications for materials and services, requesting quotes, performing bid analysis, selecting bids, and coordinating delivery/schedule
+- Ensured federally and internally required project documentation was assembled and archived at the end of each project. Also co-led response to state audit of construction records for projects completed within the last 40 years
+- Facility Requests: worked with external organizations who had construction projects in the vicinity of, or that crossed, DTE pipelines. Developed custom solutions for each client's case through collaboration between myself, the client, and my team
+- Contributed to and drove continuous improvement initiatives within my department
+- Ensured safety in all aspects of my work. One of my most critical functions was to develop and oversee pressure control procedures, which were required for any non-standard modifications to the operation of any gas facilities (i.e. taking a pipeline offline for construction and bringing it up again after)
+
+#### Accomplishments
+- Created central documentation website for department using Sharepoint. Used a wiki-style format so the entire team could contribute to and review online documentation. The site also housed standard documents used by all members of the team
+- Developed standardized calculation spreadsheets for use within my department, including but not limited to: 
+  - Gas pressure regulator sizing and set point calculator 
+  - gas velocity and volumetric flow calculator
+  - time estimate calculator for the duration of venting a pipeline to atmosphere or calculate lost gas volume through a leak
+- Created high-level project management system to track progress and time estimates for project assignments in order to better plan and balance workload among the available engineers
+- Implemented new project management strategies to improve project execution efficiency and robustness. Included process standardization, improved communication methods, and modifications to the existing project execution process
+- Resolved conflicts between myself and internal and external groups/individuals in order to produce mutually beneficial solutions. This was especially important for facility requests, where the needs of the client and DTE could differ significantly
+- Improved the relationships between my department and inter-dependent departments through open, regular, discussion and collaboration. Improved efficiency of inter-departmental tasks as a result
 
 ### ADDITIONAL SKILLS
 - Proven communication, diplomacy, and teamwork skills
