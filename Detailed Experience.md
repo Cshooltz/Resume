@@ -27,9 +27,9 @@
 **Contact:** For unsolicited contact, please message me through GitHub or Indeed  
 
 ### SUMMARY
-I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), and over the last 6 months I have been, and continue to be, working hard to train myself in software development. I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
+I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), project management, and over the last 6 months I have been, and continue to be, working hard to train myself in software development. I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
 
-I've decided to make the change to software development as a personal choice this last year. I have always had a passion for software and computer technology and recently realized that it is more appealing to me now than traditional engineering ever was. In a nutshell, I am making the change because I love making software!
+I decided to make the change to software development as a personal choice this last year. I have always had a passion for software and computer technology and recently realized that it is more appealing to me now than traditional engineering ever was. In a nutshell, I am making the change because I love making software!
 
 I am predominately looking for work in Ohio, the closer to Cleveland the better, since I have family in the Cleveland area and simply like the area too. However, I am open to discussing relocation to other places for work instead if the opportunity is a good fit for me. I am also open to remote positions and can facilitate periodic travel (i.e. by flight or road trip) to meet in person.
 
