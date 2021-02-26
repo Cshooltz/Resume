@@ -7,7 +7,7 @@ If you would like additional details and background on my skills and experience,
 
 For specific details regarding my software projects, please see my other GitHub repositories.
 
-Finally, you may also view my Indeed profile here: [my.indeed.com/p/collins-unfknif](https://my.indeed.com/p/collins-unfknif),  
+You may also view my Indeed profile here: [my.indeed.com/p/collins-unfknif](https://my.indeed.com/p/collins-unfknif),  
 which contains largely the same information as here, but is a good place to contact me if you are registered on Indeed as an employer.
 
 Thank you,
