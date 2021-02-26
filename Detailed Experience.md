@@ -1,7 +1,15 @@
 # DETAILED PROFESSIONAL EXPERIENCE
+
+### PERSONAL INFO
+**Name:** Collin Shooltz  
+**Location:** Michigan  
+**Contact:** For unsolicited contact, please message me through GitHub or Indeed 
+
+### PREFACE
+This document contains a more or less exhaustive list of my skills and experience along with explanations. This is supplemental information for you to peruse at your convenience if you would like additional details on any of my experience.
+
+----------------------------------------------------------------
 ### TABLE OF CONTENTS
-- [Personal Info](#personal-info)
-- [Summary](#summary)
 - [Education and Training](#education-and-training)
   - [Undergraduate College (Chemical Engineering)](#undergraduate-college)
   - [*Our Community Listens* Communication Training](#our-community-listens-communication-training-provided-by-phillipslistens-inc-november-2016)
@@ -21,21 +29,6 @@
   - [2D Techniques and Design](#2d-techniques-and-design)
 - [Additional Skills](#2d-techniques-and-design)
 
-### PERSONAL INFO
-**Name:** Collin Shooltz  
-**Location:** Michigan  
-**Contact:** For unsolicited contact, please message me through GitHub or Indeed  
-
-### SUMMARY
-I am a highly motivated individual who is looking to start a career in software development/engineering. I have a solid foundation in chemical/mechanical engineering experience (about 7 years between college and working experience), project management, and over the last 6 months I have been, and continue to be, working hard to train myself in software development. I am confident that with my combined skill set and experience that I will make a valuable addition to any team and look forward to gaining professional experience in software development.
-
-I decided to make the change to software development as a personal choice this last year. I have always had a passion for software and computer technology and recently realized that it is more appealing to me now than traditional engineering ever was. In a nutshell, I am making the change because I love making software!
-
-I am predominately looking for work in Ohio, the closer to Cleveland the better, since I have family in the Cleveland area and simply like the area too. However, I am open to discussing relocation to other places for work instead if the opportunity is a good fit for me. I am also open to remote positions and can facilitate periodic travel (i.e. by flight or road trip) to meet in person.
-
-Please continue reading for an overview of my experience and skills. Also keep in mind that I continue to work at improving my skills in software development weekly and I intend to update my online resume regularly to reflect my progress.
-
-----------------------------------------------------------------
 ## EDUCATION AND TRAINING
 #### Undergraduate College
 Michigan Technological University, Houghton, MI  
@@ -43,8 +36,8 @@ BS Chemical Engineering, 3.62 GPA (Cum Laude), April 2016
 Passed FE Exam, April 2016
 
 #### Misc
-- Our Community Listens communication training, provided by PhillipsLISTENS, INC, November 2016
 - Continuous Improvement Program Training, DTE Energy, 2018-2019
+- Our Community Listens communication training, provided by PhillipsLISTENS, INC, November 2016
 
 ## SOFTWARE DEVELOPMENT EXPERIENCE
 
