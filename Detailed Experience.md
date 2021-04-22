@@ -12,8 +12,7 @@ This document contains a more or less exhaustive list of my skills and experienc
 ### TABLE OF CONTENTS
 - [Education and Training](#education-and-training)
   - [Undergraduate College (Chemical Engineering)](#undergraduate-college)
-  - [*Our Community Listens* Communication Training](#our-community-listens-communication-training-provided-by-phillipslistens-inc-november-2016)
-  - [Continuous Improvement Training, DTE](#continuous-improvement-program-training-dte-energy-2018-2019)
+  - [Miscellaneous training](#Misc)
 - [Software Development Experience](#software-development-experience)
   - [Overview](#overview)
   - [Practice Database Editor Project](#practice-database-editor-application)
@@ -50,19 +49,16 @@ I have always had a passion for software and computer science and have dabbled i
   - Comfortable on any operating system (most experienced with Linux and Windows)
   - High level understanding of the underlying operations and architectures of computers, and comfortable going as low level as programming in assembly language
   - Currently specialized in C# programming for cross platform .Net applications
-  - Functional with multi-threaded programming. Comfortable using Tasks, ThreadPool threads, and manual Threads in C#. Comfortable using multi-threaded control structures and data structures, such as locks, mutexes, and event handles. I implemented 3 basic threading strategies in my own application over 3 days at the end of January.
-  - Comfortable with UI programming. I know the basics of WPF and HTML/CSS/JS. My preference for developing personal applications is to use a game engine like Godot or Unity
+  - Functional with multi-threaded programming. Comfortable using Tasks, ThreadPool threads, and manual Threads in C#. Comfortable using multi-threaded control structures and data structures, such as locks, mutexes, and event handles. I implemented 3 basic threading strategies in my own application over 3 days at the end of January 2021.
+  - Comfortable with UI programming. I know the basics of WPF and HTML/CSS/JS. My preference for developing personal applications is to use a game engine like Godot, although the upcoming .Net MAUI in .Net 6 looks promising
   - Comfortable using game engines. Most experienced with Godot, but comfortable with Unity and Unreal Engine 4 
   - Comfortable working with digital assets, i.e. images, SVG, audio, 3D data, etc. I am not yet very experienced working with these data formats from the code side of things, but I am learning more every day
 
-**Todo Learning and Projects:**  
-  - Complete my database editor I am making in Godot.
-  - Make a similar practice project in Unity to compare their workflows and architecture.
-  - Port one or more of my practice projects to mobile
-  - Learn ASP.Net Core for building web apps and services
-  - Learn and use advanced data modeling, processing, and storage
-  - Learn how to implement real-time network communications, i.e. multiple users editing the same document in real-time over the internet
-  - Experiment with procedural generation and simulation (i.e. physics and graphics)
+The following are immediate goals I am working on to expand my knowledge and experience of software development:
+  - Complete database editor application
+  - Familiarize myself with ASP.Net, Razor Pages, MVC, and Blazor, and build a practice web application
+  - Learn how to draw custom graphics from code (i.e. primitive rasterization and shaders) to facilitate advanced GUI elements and software that can produce user generated graphics (i.e. image generation, graphs, etc)
+  - Explore mobile application development and port an existing project to mobile
 
 ### Practice Database Editor Application
 For a detailed description and the source code for this project, please visit my GitHub repository: [Data Editor App](https://github.com/Cshooltz/Data-Editor-App)
